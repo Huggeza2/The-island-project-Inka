@@ -60,9 +60,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _Depth: 1.5
-    - _NormalStrength: 17.84
-    - _NormalStrength1: 0.02
-    - _NormalStrength2: 0.05
+    - _NormalStrength: 0.13
+    - _NormalStrength1: 3.37
+    - _NormalStrength2: 3.19
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 10
